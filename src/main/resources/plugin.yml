@@ -1,0 +1,6 @@
+name: WindConfig
+main: com.carlos.plugins.tst.WindChargePlugin
+version: 0.1
+api-version: 1.21
+commands:
+  wind:

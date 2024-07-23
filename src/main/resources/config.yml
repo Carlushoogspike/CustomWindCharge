@@ -1,0 +1,32 @@
+enabled: true
+
+custom:
+  name: '&eJutso do Ar'
+  lore:
+    - '&7Utilize esse jutso para'
+    - '&7jogar tudo ao ar!'
+
+explosion:
+  enabled: true
+  power: 0.1
+  particle:
+    enabled: true
+    key: 'HAPPY_VILLAGER'
+    color: ''
+    amount: 200
+  radius: 5
+  damage:
+    enabled: false
+    damage: 10.0
+  sound: true
+
+velocity:
+  enabled: true
+  velocity: 0.1
+
+particle:
+  enabled: true
+  key: 'HAPPY_VILLAGER'
+  color: ''
+  amount: 1
+
